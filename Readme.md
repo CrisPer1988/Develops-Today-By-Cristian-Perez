@@ -40,7 +40,7 @@ The application allows you to list available countries, show detailed informatio
 Clone the repository and install the dependencies for the Backend and Frontend:
 
 bash
-git clone https://github.com/tu-usuario/country-info-app.git
+git clone https://github.com/CrisPer1988/Develops-Today-By-Cristian-Perez.git
 cd country-info-app
 
 # Install Backend dependencies
